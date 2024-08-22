@@ -5,24 +5,10 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Software Engineering for Data Science 2024 JHU](#software-engineering-for-data-science-2024-jhu)
 
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Software Engineering for Data Science 2024 JHU
 
 
 ## Contribute
