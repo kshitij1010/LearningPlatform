@@ -8,12 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
+- State your preferred name, GitHub Handle, and a one-line description of your project in the PR description
+- Put a link to your repo in the corresponding session of the README.md in the following format
+  - `ProjectName RepoLink YourPreferedName`
 
 ## Updating your PR
 
