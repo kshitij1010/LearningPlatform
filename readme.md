@@ -5,6 +5,7 @@
 ## Contents
 
 - [Software Engineering for Data Science 2024 JHU](#software-engineering-for-data-science-2024-jhu)
+- [The geometry of WFA, Daniel López-Castaño](https://github.com/juadlopezcas/SEDS-project)
 - [AI Codebase Assistant, CaioDeberaldini](https://github.com/caiodeberaldini/semester_project)
 - [Point Cloud Generator, Dilum](https://github.com/DilumFernando/point_cloud_gen)
 - [InfoFeeder, Haolin Li](https://github.com/JamesLi128/InfoFeeder)
