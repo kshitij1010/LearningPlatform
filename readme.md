@@ -6,7 +6,7 @@
 ## Contents
 
 - [Software Engineering for Data Science 2024 JHU](#software-engineering-for-data-science-2024-jhu)
-
+- [Harry, Deep Recommender System for Peer-to-Peer Lending](https://github.com/BabisSalis/AwesomeKazeClassProject/edit/main)
 
 ## Software Engineering for Data Science 2024 JHU
 
