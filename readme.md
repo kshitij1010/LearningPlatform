@@ -6,6 +6,7 @@
 ## Contents
 
 - [Software Engineering for Data Science 2024 JHU](#software-engineering-for-data-science-2024-jhu)
+- [Geometric visualization of WFA](#SEDS-project)
 
 
 ## Software Engineering for Data Science 2024 JHU
