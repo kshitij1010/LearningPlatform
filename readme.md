@@ -10,6 +10,7 @@
 - [InfoFeeder, Haolin Li](https://github.com/JamesLi128/InfoFeeder)
 - [Adam's Cool Project, Adam Tsou](https://github.com/atsou2/clothingquality)
 - [SweetApproximation, Pedro Izquierdo Lehmann](https://github.com/pizqleh/sweet-approximation)
+- [Dont open not too cool yet, Beatrix Wen](https://github.com/WwHeEnN/test-kaze-class)
 
 ## Software Engineering for Data Science 2024 JHU
 
