@@ -12,6 +12,7 @@
 - [Adam's Cool Project, Adam Tsou](https://github.com/atsou2/clothingquality)
 - [Identification of Respiratory Motion System, Benjamin](https://github.com/bweinbe5/553.689)
 - [SweetApproximation, Pedro Izquierdo Lehmann](https://github.com/pizqleh/sweet-approximation)
+- [STILL Thinking, Yun You](https://github.com/IvyYY00/SDE-for-datascience-project)
 - [Dont open not too cool yet, Beatrix Wen](https://github.com/WwHeEnN/test-kaze-class)
 
 ## Software Engineering for Data Science 2024 JHU
