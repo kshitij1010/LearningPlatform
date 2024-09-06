@@ -10,6 +10,7 @@
 - [Point Cloud Generator, Dilum](https://github.com/DilumFernando/point_cloud_gen)
 - [InfoFeeder, Haolin Li](https://github.com/JamesLi128/InfoFeeder)
 - [Adam's Cool Project, Adam Tsou](https://github.com/atsou2/clothingquality)
+- [Identification of Respiratory Motion System, Benjamin](https://github.com/bweinbe5/553.689)
 - [SweetApproximation, Pedro Izquierdo Lehmann](https://github.com/pizqleh/sweet-approximation)
 
 ## Software Engineering for Data Science 2024 JHU
