@@ -6,7 +6,7 @@
 ## Contents
 
 - [Software Engineering for Data Science 2024 JHU](#software-engineering-for-data-science-2024-jhu)
-- [InfoFeeder, Haolin Li] (https://github.com/JamesLi128/InfoFeeder)
+- [InfoFeeder, Haolin Li](https://github.com/JamesLi128/InfoFeeder)
 - [Adam's Cool Project, Adam Tsou](https://github.com/atsou2/clothingquality)
 
 ## Software Engineering for Data Science 2024 JHU
