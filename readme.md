@@ -16,6 +16,7 @@
 - [Dont open not too cool yet, Beatrix Wen](https://github.com/WwHeEnN/test-kaze-class)
 - [Peer-To-Peer Lending Recommender System, Harry](https://github.com/BabisSalis/PeerToPeerLendingRecommender/tree/main)
 - [AI VTuber, Yiyang](https://github.com/ygu28/Lain-AI-Channel)
+- [SweDS Project WIP](https://github.com/EricAlanSimon/SweDS)
 - [PyxcellR, Aditya](https://github.com/adityasuru95/pyxcellr)
 - [Titan Track, Haoruo Zhang](https://github.com/haoruo-zhang/Software-Engineering-for-Data-Science.git)
 ## Software Engineering for Data Science 2024 JHU
