@@ -20,6 +20,7 @@
 - [SweDS Project WIP](https://github.com/EricAlanSimon/SweDS)
 - [PyxcellR, Aditya](https://github.com/adityasuru95/pyxcellr)
 - [Titan Track, Haoruo Zhang](https://github.com/haoruo-zhang/Software-Engineering-for-Data-Science.git)
+- [LLM-Recommender, Sayantan Choudhury](https://github.com/isayantan/LLM-Recommender)
 ## Software Engineering for Data Science 2024 JHU
 
 
