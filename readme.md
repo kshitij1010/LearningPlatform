@@ -21,6 +21,7 @@
 - [PyxcellR, Aditya](https://github.com/adityasuru95/pyxcellr)
 - [Titan Track, Haoruo Zhang](https://github.com/haoruo-zhang/Software-Engineering-for-Data-Science.git)
 - [LLM-Recommender, Sayantan Choudhury](https://github.com/isayantan/LLM-Recommender)
+- [Personalized Learning Platform](https://github.com/kshitij1010/LearningPlatform.git)
 ## Software Engineering for Data Science 2024 JHU
 
 
