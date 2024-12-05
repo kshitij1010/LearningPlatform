@@ -1,4 +1,4 @@
-# Personalized Learning Platform with LLM Integration
+# LearnSphere: Personalized Learning Platform with LLM Integration
 
 - **Name**: Kshitij Joshi  
 - **Program**: Masters in Data Science (AMS Dept.)  
